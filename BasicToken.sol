@@ -1,5 +1,6 @@
 pragma solidity ^0.4.19;
 
+
 import "./a3_1_ERC20Basic.sol";
 import "./a3_2_SafeMath.sol";
 
